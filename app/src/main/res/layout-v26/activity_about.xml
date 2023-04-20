@@ -27,7 +27,7 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="18dp"
                 android:layout_marginBottom="28dp"
-                android:src="@drawable/splash"
+                android:src="@drawable/logo1"
                 tools:ignore="ContentDescription" />
 
 
@@ -36,7 +36,7 @@
                 android:layout_height="wrap_content"
                 android:layout_margin="10dp"
                 android:fontFamily="@font/nunitosans_light"
-                android:text="@string/aboutus"
+                android:text="Meals Matter provides the right channels for compassionate citizens to begin and manage initiatives, that solve for hunger locally. Our mission is to make India hunger free"
                 android:textColor="@color/white"
                 android:justificationMode="inter_word"
                 android:textSize="20sp"
@@ -98,7 +98,7 @@
                     android:layout_height="wrap_content"
                     android:layout_gravity="center"
                     android:fontFamily="@font/opensans"
-                    android:text="Facebook"
+                    android:text="@string/facebook1"
                     android:textColor="@color/white"
                     android:textSize="25sp" />
 
@@ -140,7 +140,7 @@
                 android:layout_height="wrap_content"
                 android:layout_gravity="center"
                 android:fontFamily="@font/opensans_light"
-                android:text="Version 1.0.0"
+                android:text="@string/version_1_0_01"
                 android:textColor="@color/white"
                 android:textSize="20sp" />
     </LinearLayout>

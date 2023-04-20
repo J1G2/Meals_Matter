@@ -66,5 +66,16 @@
     <string name="facebook">Facebook</string>
     <string name="twitter">Twitter</string>
     <string name="version_1_0_0">Version 1.0.0</string>
+    <string name="facebook1">Facebook</string>
+    <string name="version_1_0_01">Version 1.0.0</string>
+    <string name="tag">tag</string>
+    <string name="email">Email</string>
+    <string name="button">Button</string>
+    <string name="already_register">Already Register?</string>
+    <string name="phonenumber">PhoneNumber</string>
+    <string name="todo1">TODO</string>
+    <string name="password">Password</string>
+    <string name="name1">Name</string>
+    <string name="name2">Name</string>
 </resources>
 

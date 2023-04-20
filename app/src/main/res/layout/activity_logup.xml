@@ -8,7 +8,8 @@
     android:background="@drawable/bthre"
     android:padding="16dp"
     android:gravity="center"
-    tools:context=".Logup">
+    tools:context=".Logup"
+    android:orientation="horizontal">
 
     <ImageView
         android:id="@+id/profile"

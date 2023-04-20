@@ -27,22 +27,22 @@
                 android:layout_gravity="center_horizontal"
                 android:layout_marginTop="18dp"
                 android:layout_marginBottom="28dp"
-                android:src="@drawable/splash"
+                android:src="@"
                 tools:ignore="ContentDescription" />
 
 
-            <TextView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:layout_margin="10dp"
-                android:fontFamily="@font/nunitosans_light"
-                android:text="@string/aboutus"
-                android:textColor="@color/white"
-                android:justificationMode="inter_word"
-                android:textSize="20sp"
-                tools:targetApi="o" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:fontFamily="@font/nunitosans_light"
+            android:justificationMode="inter_word"
+            android:text="Welocome to Meals matter"
+            android:textColor="@color/white"
+            android:textSize="20sp"
+            tools:targetApi="o" />
 
-            <androidx.cardview.widget.CardView
+        <androidx.cardview.widget.CardView
                 android:id="@+id/instagram"
                 android:layout_width="match_parent"
                 android:layout_height="60dp"
